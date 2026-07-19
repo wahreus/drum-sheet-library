@@ -8,7 +8,7 @@ The transcriptions below cover select sections of studio recordings and are inte
 
 <details>
 <summary><strong>Led Zeppelin | 'Whole Lotta Love'</strong></summary>
-
+<h2>Led Zeppelin | 'Whole Lotta Love'</h2>
 <table>
   <tbody>
     <tr>
@@ -29,7 +29,6 @@ The transcriptions below cover select sections of studio recordings and are inte
     </tr>
   </tbody>
 </table>
-
 <p align="center">
   <img src="figures/grooves_header.svg" width="100%"/>
 </p>
