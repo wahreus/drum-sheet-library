@@ -1,13 +1,13 @@
 # 🥁 Drum Sheets
 
-A personal library of sheet music and practice material for drums.
+A personal library of sheet music and practice material for drums. It currently includes transcriptions of recorded music and a section on shuffle grooves, with more sections and material to be added as the library grows.
 
 ## Note legend
 
 <p align="center">
   <img src="figures/legend.svg" width="100%"/>
 </p>
-<p align="center"><em>The notes are numbered from left to right in the image.</em></p>
+<p align="center"><em>Notes are numbered from left to right in the above image.</em></p>
 <table align="center">
   <thead>
     <tr>
@@ -62,6 +62,7 @@ A personal library of sheet music and practice material for drums.
     </tr>
   </tbody>
 </table>
+
 <br>
 
 ## Transcriptions
