@@ -26,7 +26,7 @@ A personal library of sheet music and practice material for drums.
       <td align="center">6</td>
       <td>Ride (bell)</td>
       <td align="center">11</td>
-      <td>Tom (low)</td>
+      <td>Tom (floor)</td>
     </tr>
     <tr>
       <td align="center">2</td>
@@ -40,7 +40,7 @@ A personal library of sheet music and practice material for drums.
       <td align="center">3</td>
       <td>Hi-hat (open)</td>
       <td align="center">8</td>
-      <td>Tom (high)</td>
+      <td>Tom (rack)</td>
       <td align="center">13</td>
       <td>Hi-hat foot (closed)</td>
     </tr>
