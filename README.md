@@ -140,7 +140,9 @@ The transcriptions below cover select sections of studio recordings and are inte
 </p>
 </details>
 
-## Pattern focus: Texas shuffles
+## Pattern focus: Shuffles
+
+### Texas shuffles
 
 Here, a Texas shuffle is defined solely by its snare pattern: accents on beats 2 and 4, with all other notes played as ghost notes. The accompanying kick, ride, and hi-hat patterns may vary. Practice transitioning seamlessly between any two patterns in the table below, which combines common kick and hi-hat-foot patterns.
 
