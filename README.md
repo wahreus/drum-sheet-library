@@ -94,7 +94,7 @@ Here, a Texas shuffle is defined solely by its snare pattern: accents on beats 2
   </thead>
   <tbody>
     <tr>
-      <td><strong>Straight&nbsp;kick pattern</strong></td>
+      <td><strong>Quarter&#8209;note kick</strong></td>
       <td align="center">
         <img src="figures/texas_shuffles/1.svg"/>
       </td>
@@ -103,7 +103,7 @@ Here, a Texas shuffle is defined solely by its snare pattern: accents on beats 2
       </td>
     </tr>
     <tr>
-      <td><strong>Syncopated&nbsp;kick pattern</strong></td>
+      <td><strong>Syncopated kick</strong></td>
       <td align="center">
         <img src="figures/texas_shuffles/3.svg"/>
       </td>
